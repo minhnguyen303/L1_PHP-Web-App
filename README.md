@@ -1,0 +1,11 @@
+### L1 PHP Web App
+- Thực Hành:
+    - [Thực hành] Ứng dụng hiển thị thời gian của server
+    - [Thực hành] Chức năng đăng nhập
+    - [Thực hành] Hiển thị danh sách khách hàng
+    - [Thực hành] Ứng dụng Từ điển đơn giản
+- Bài Tập:
+    - [Bài tập] Ứng dụng đọc số thành chữ
+    - [Bài tập] Ứng dụng Future Value Calculator
+    - [Bài tập] Ứng dụng Product Discount Calculator
+    - [Bài tập] Ứng dụng Calculator
