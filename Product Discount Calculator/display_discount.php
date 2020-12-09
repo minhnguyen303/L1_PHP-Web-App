@@ -1,8 +1,8 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST'){
-    $Product_Description = $_POST['Product_Description'];
-    $List_Price = $_POST['List_Price'];
-    $Discount_Percent = $_POST['Discount_Percent'];
+    $Product_Description = $_POST['product_description'];
+    $List_Price = $_POST['list_price'];
+    $Discount_Percent = $_POST['discount_percent'];
 
     $discountAmount = $List_Price * $Discount_Percent * 0.01;
     $discountPrice = $List_Price - $discountAmount;
